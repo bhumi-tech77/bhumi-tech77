@@ -4,6 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm BHUMIKA SHARMA!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bhumi-tech77&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="bhumi-tech77's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi-tech77&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=bhumi-tech77&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhumi-tech77&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/bhumi-tech77" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @bhumi-tech77" /></a>
+</p>
+
 <h3 align="center">I am a Web Developer from Mathura .</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -40,13 +50,3 @@
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bhumi-tech77&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="bhumi-tech77's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi-tech77&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=bhumi-tech77&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhumi-tech77&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/bhumi-tech77" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @bhumi-tech77" /></a>
-</p>
